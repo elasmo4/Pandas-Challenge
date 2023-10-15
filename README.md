@@ -1,8 +1,7 @@
 <h3>Pandas-Challenge</h3>
 <h5>Code location:</h5>
 
-> 
-> 
+> To access code, navigate above and click "PyCitySchools.ipynb"
 > 
 
 <h5>Code source:</h5>
