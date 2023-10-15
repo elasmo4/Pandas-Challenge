@@ -1,7 +1,7 @@
 <h3>Pandas-Challenge</h3>
 <h5>Code location:</h5>
 
-> The PyCitySchools project can be found by selecting the <h7>PyCitySchools.ipynb<h7> file above.
+> The PyCitySchools project can be found by selecting the "PyCitySchools.ipynb" file above.
 > 
 
 <h5>Code source:</h5>
